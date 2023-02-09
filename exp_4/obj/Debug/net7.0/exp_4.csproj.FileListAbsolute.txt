@@ -1,0 +1,15 @@
+D:\учеба\Знакомство с языками программирования\8 семинар\lesson\exp_4\bin\Debug\net7.0\exp_4.exe
+D:\учеба\Знакомство с языками программирования\8 семинар\lesson\exp_4\bin\Debug\net7.0\exp_4.deps.json
+D:\учеба\Знакомство с языками программирования\8 семинар\lesson\exp_4\bin\Debug\net7.0\exp_4.runtimeconfig.json
+D:\учеба\Знакомство с языками программирования\8 семинар\lesson\exp_4\bin\Debug\net7.0\exp_4.dll
+D:\учеба\Знакомство с языками программирования\8 семинар\lesson\exp_4\bin\Debug\net7.0\exp_4.pdb
+D:\учеба\Знакомство с языками программирования\8 семинар\lesson\exp_4\obj\Debug\net7.0\exp_4.csproj.AssemblyReference.cache
+D:\учеба\Знакомство с языками программирования\8 семинар\lesson\exp_4\obj\Debug\net7.0\exp_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Знакомство с языками программирования\8 семинар\lesson\exp_4\obj\Debug\net7.0\exp_4.AssemblyInfoInputs.cache
+D:\учеба\Знакомство с языками программирования\8 семинар\lesson\exp_4\obj\Debug\net7.0\exp_4.AssemblyInfo.cs
+D:\учеба\Знакомство с языками программирования\8 семинар\lesson\exp_4\obj\Debug\net7.0\exp_4.csproj.CoreCompileInputs.cache
+D:\учеба\Знакомство с языками программирования\8 семинар\lesson\exp_4\obj\Debug\net7.0\exp_4.dll
+D:\учеба\Знакомство с языками программирования\8 семинар\lesson\exp_4\obj\Debug\net7.0\refint\exp_4.dll
+D:\учеба\Знакомство с языками программирования\8 семинар\lesson\exp_4\obj\Debug\net7.0\exp_4.pdb
+D:\учеба\Знакомство с языками программирования\8 семинар\lesson\exp_4\obj\Debug\net7.0\exp_4.genruntimeconfig.cache
+D:\учеба\Знакомство с языками программирования\8 семинар\lesson\exp_4\obj\Debug\net7.0\ref\exp_4.dll
